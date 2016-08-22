@@ -21,6 +21,7 @@ This is the first website I made that wasn't for me.
 I made this site for a friend who is majoring in political science. Wait, scratch that. He dreams in political science and wants to be lawyer. 
 
 Technologies used: 
+
 + html
 + css 
 + Bootstrap
