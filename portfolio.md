@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Here lies the contents that I have either created or contributed to. 
+Here lies the contents that I have either created or contributed to in the order of latest to oldest. 
 
 View the source code on Github!
 
