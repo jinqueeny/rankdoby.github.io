@@ -22,6 +22,10 @@ Though I am learning more about the intricacies of web development, I am simulta
 - Playing volleyball 
 - Thinkpads
 
-### Contact me
+### Contact me:
 
 [yasirsoulong@gmail.com](mailto:yasirsoulong@gmail.com)
+
+### Look up my Freecodecamp stats!
+
+[rankdoby](https://www.freecodecamp.com/rankdoby)
