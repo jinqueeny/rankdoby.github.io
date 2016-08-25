@@ -27,3 +27,18 @@ Technologies used:
 - Bootstrap
 
 [source code](https://github.com/rankdoby/Politics-in-the-air)
+
+## [My original portfolio](http://rankdoby.github.io/Portfolio/)
+
+![orig_portfolio]({{ site.baseurl }}/images/orig_portfolio.png)
+
+This is my first portfolio site I made for myself. It was a part of [Freecodecamp's](http://freecodecamp.com/) basic projects, though it didn't ask for the developer to use jquery. 
+
+Technologies used: 
+
+- html 
+- css
+- Bootstrap 
+- Jquery
+
+[source code](https://github.com/rankdoby/Portfolio)
