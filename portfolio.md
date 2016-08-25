@@ -28,7 +28,7 @@ Technologies used:
 
 [source code](https://github.com/rankdoby/Politics-in-the-air)
 
-## [My original portfolio](http://rankdoby.github.io/Portfolio/)
+## [My original portfolio site](http://rankdoby.github.io/Portfolio/)
 
 ![orig_portfolio]({{ site.baseurl }}/images/orig_portfolio.png)
 
