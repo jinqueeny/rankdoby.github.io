@@ -43,7 +43,7 @@ Technologies used:
 
 [source code](https://github.com/rankdoby/Portfolio)
 
-# Projects:
+
 
 
 
