@@ -24,7 +24,7 @@ While I am learning more about the intricacies of web development, I am simultan
 
 ### Contact me:
 
-[yasirsoulong@gmail.com](mailto:yasirsoulong@gmail.com)
+[ysoulong@gmail.com](mailto:ysoulong@gmail.com)
 
 ### Look up my Freecodecamp stats!
 
