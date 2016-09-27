@@ -25,6 +25,7 @@ Technologies used:
 - html
 - css 
 - Bootstrap
+- php 
 
 [source code](https://github.com/rankdoby/Politics-in-the-air)
 
