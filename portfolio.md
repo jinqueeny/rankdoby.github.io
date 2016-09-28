@@ -45,7 +45,23 @@ Technologies used:
 [source code](https://github.com/rankdoby/Portfolio)
 
 # Projects: 
+## [A random quote machine. (work in progress!)](http://yasirsoulong.me/quote-machine/)
 
+![quote-machine]({{ site.baseurl }}/images/quote-machine.png)
+
+This is a project I made for myself to practice the usage of apis to display random quotes of humankind. 
+
+The api I used was from [Forismatic](http://forismatic.com/en/api/), which was free and didn't require creating an account for api keys. 
+
+*Notes: This is still a work in progress. The responsivity of the project when applied on the phones and tablets is not good, and there are quotes that encapsulate the author of the quote.* 
+
+Technolgoies used: 
+
+- html 
+- css 
+- Bootstrap 
+- Jquery 
+- APIs
 
 
 
