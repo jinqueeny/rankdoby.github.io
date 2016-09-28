@@ -45,6 +45,7 @@ Technologies used:
 [source code](https://github.com/rankdoby/Portfolio)
 
 # Projects: 
+
 ## [A random quote machine. (work in progress!)](http://yasirsoulong.me/quote-machine/)
 
 ![quote-machine]({{ site.baseurl }}/images/quote-machine.png)
