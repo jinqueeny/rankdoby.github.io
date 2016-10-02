@@ -25,7 +25,7 @@ Technologies used:
 - html
 - css 
 - Bootstrap
-- php 
+
 
 [source code](https://github.com/rankdoby/Politics-in-the-air)
 
@@ -46,17 +46,18 @@ Technologies used:
 
 # Projects: 
 
-## [A random quote machine. (work in progress!)](http://yasirsoulong.me/quote-machine/)
+## [A random quote machine.](http://yasirsoulong.me/quote-machine/)
 
 ![quote-machine]({{ site.baseurl }}/images/quote-machine.png)
 
-This is a project I made for myself to practice the usage of apis to display random quotes of humankind. 
+This is a project I made for myself and was a part of [Freecodecamp's](http://freecodecamp.com/) intermediate projects. This project was used as an introduction to apis by retrieving JSON (JSONP) data from the api, and incorporating that data onto a website that simply displayed a random quote every time you pushed the "new quote" button. 
+
+At the user's expense, the user can also tweet the quote with the author as a hastag.
 
 The api I used was from [Forismatic](http://forismatic.com/en/api/), which was free and didn't require creating an account for api keys. 
 
-*Notes: This is still a work in progress. The responsivity of the project when applied on the phones and tablets is not good, and there are quotes that encapsulate the author of the quote.* 
 
-Technolgoies used: 
+Technologies used: 
 
 - html 
 - css 
