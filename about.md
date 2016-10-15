@@ -6,7 +6,7 @@ permalink: /about/
 
 ![It's me!]({{ site.baseurl }}/images/invert.jpg)
 
-My name is Yasir Soulong. I am an up and coming self-taught web developer who is learning today's languages and technologies which involve the HTML, CSS, Javascript, PHP, and SQL. 
+My name is Yasir Soulong. I am an up and coming self-taught web developer who is learning today's languages and technologies which involve HTML, CSS, Javascript, PHP, and SQL. 
 
 I built my first website while I was attending high school. It was built using a content management system called Joomla! And ever since that day I vowed to live by two things: to learn more about web development, and to stay away from Joomla! (Seinfeld: Not that there's anything wrong with that...)
 
