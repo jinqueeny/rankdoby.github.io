@@ -12,7 +12,7 @@ View the source code on Github!
 
 # Sites: 
 
-## [Politics in the air](http://politicsintheair.com/)
+## [Politics in the Air](http://politicsintheair.com/)
 
 ![politicsintheair]({{ site.baseurl }}/images/politicsintheair.jpg)
 
@@ -29,7 +29,7 @@ Technologies used:
 
 [source code](https://github.com/rankdoby/Politics-in-the-air)
 
-## [My original portfolio site](http://rankdoby.github.io/Portfolio/)
+## [My Original Portfolio Site](http://rankdoby.github.io/Portfolio/)
 
 ![orig_portfolio]({{ site.baseurl }}/images/orig_portfolio.png)
 
@@ -46,7 +46,28 @@ Technologies used:
 
 # Projects: 
 
-## [A random quote machine.](http://yasirsoulong.me/quote-machine/)
+## [A Weather Web App.](http://yasirsoulong.me/weatherapp/)
+
+![A Weather Web App]({{ site.baseurl }}/images/weatherapp.jpg)
+
+This is a project I made for myself and is the second of Freecodecamp's intermediate projects. This project required implementing data from your location using a geolocation API to retrieve the client's latitude and longitude. Then by using a weather API, in my case, [Wunderground](https://www.wunderground.com/weather/api/d/docs), I inputed the latitude and longitude into Wunderground's query parameters. This outputted JSON data relative to your location that I then manipulated onto a web page. 
+
+*Note: the geolocation API was meant to be used as a part of the requirement for the project, but due to Chrome requiring their geolocation API to be used only over https, I resorted to using an API that tracks down the location of the client's IP address called [freegeoip](https://freegeoip.net/?q=47.152.176.50).*
+
+The project displays the current weather in your location, an icon that changes depending on the weather, and has a button that allows the user to convert Fahrenheit into Celcius and back. 
+
+Technologies used: 
+
+- html 
+- css
+- Bootstrap
+- Jquery
+- APIs
+
+
+[source code](https://github.com/rankdoby/weatherapp)
+
+## [A Random Quote Machine.](http://yasirsoulong.me/quote-machine/)
 
 ![quote-machine]({{ site.baseurl }}/images/quote-machine.png)
 
@@ -65,7 +86,9 @@ Technologies used:
 - Jquery 
 - APIs
 
-## [A Weather app.](http://yasirsoulong.me/weatherapp/)
+[source code](https://github.com/rankdoby/quote-machine)
+
+
 
 
 
