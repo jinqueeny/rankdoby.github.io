@@ -13,3 +13,5 @@ I did this using Jquery's getJSON method, and manipulated the API's query parame
 The only improvements I do want to implement in the future (other than cleaning up my ugly js code) is to figure out why semicolons stop the completion mid-sentence when tweeted. For example, if a quote said "For those that are weary, be especially careful; they are not really weary at all...", when clicking the "tweet it!" button, the quote would only display "For those that are weary, be especially careful" in Twitter's text box. 
 
 You can check it out by clicking right [here](http://yasirsoulong.me/quote-machine/).
+
+*update: I have resolved the semicolon problem thanks to a response on Reddit's subreddit, [r/freecodecamp](https://www.reddit.com/r/FreeCodeCamp/). The problem was due to not URI encoding the actual quote itself with the function [encodeURIComponent()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent). To my understanding, a semicolon is [reserved](http://stackoverflow.com/questions/1178024/can-a-url-contain-a-semi-colon) as a delimiter and cannot be used as normal part of a URL so it must be URI encoded.*
