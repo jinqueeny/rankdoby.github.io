@@ -52,6 +52,14 @@ Technologies used:
 
 This is the third project that is a part of Freecodecamp's intermediate projects dubbed as a Wikipedia Viewer. This project required calling JSON (JSONP) data from [Mediawiki's](https://www.mediawiki.org/wiki/API:Main_page) action API and return back related Wikipedia pages based on the textual input of the user. The user can also request for a random article on Wikipedia as well. 
 
+Technologies used:
+
+- html
+- css
+- javascript 
+- jquery 
+- APIs 
+
 ## [A Weather Web App.](http://yasirsoulong.me/weatherapp/)
 
 ![A Weather Web App]({{ site.baseurl }}/images/weatherapp.jpg)
