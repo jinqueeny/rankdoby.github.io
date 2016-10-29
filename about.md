@@ -15,7 +15,8 @@ Though it has been a while since starting out, I can remember how overwhelmed I 
 While I am learning more about the intricacies of web development, I am simultaneously attending CSULB for my bachelor's degree, and though challenging, I wouldn't change a thing. 
 
 # Clubs
-- ACM: ACM-sigWeb
+- Webmaster of ACM (Association for Computing Machinery)
+
 
 ### Things I like other than web dev: 
 
@@ -25,9 +26,6 @@ While I am learning more about the intricacies of web development, I am simultan
 - Playing volleyball 
 - Thinkpads
 
-### Contact me:
-
-[ysoulong@gmail.com](mailto:ysoulong@gmail.com)
 
 ### Look up my Freecodecamp stats!
 

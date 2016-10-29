@@ -33,7 +33,7 @@ Technologies used:
 
 ![orig_portfolio]({{ site.baseurl }}/images/orig_portfolio.png)
 
-This is my first portfolio site I made for myself. It was a part of [Freecodecamp's](http://freecodecamp.com/) basic projects, though it didn't ask for the developer to use jquery. 
+This is my first portfolio site I made for myself. It was a part of [Freecodecamp's](http://freecodecamp.com/) basic projects, and although it does look pretty horrible, I like to look back at it from time to time to see how far I have progressed. 
 
 Technologies used: 
 
@@ -45,6 +45,12 @@ Technologies used:
 [source code](https://github.com/rankdoby/Portfolio)
 
 # Projects: 
+
+## [A Wikipedia Viewer.](http://yasirsoulong.me/WikipediaViewer/)
+
+![A Wikipedia Viewer]({{ site.baseurl }}/images/wikiviewer_new.jpg)
+
+This is the third project that is a part of Freecodecamp's intermediate projects dubbed as a Wikipedia Viewer. This project required calling JSON (JSONP) data from [Mediawiki's](https://www.mediawiki.org/wiki/API:Main_page) action API and return back related Wikipedia pages based on the textual input of the user. The user can also request for a random article on Wikipedia as well. 
 
 ## [A Weather Web App.](http://yasirsoulong.me/weatherapp/)
 
@@ -71,7 +77,7 @@ Technologies used:
 
 ![quote-machine]({{ site.baseurl }}/images/quote-machine.png)
 
-This is a project I made for myself and was a part of [Freecodecamp's](http://freecodecamp.com/) intermediate projects. This project was used as an introduction to apis by retrieving JSON (JSONP) data from the api, and incorporating that data onto a website that simply displayed a random quote every time you pushed the "new quote" button. 
+This is a project I made for myself and was a part of [Freecodecamp's](http://freecodecamp.com/) intermediate projects. This project was used as an introduction to APIs by retrieving JSON (JSONP) data from the api, and incorporating that data onto a website that simply displayed a random quote every time you pushed the "new quote" button. 
 
 At the user's expense, the user can also tweet the quote with the author as a hastag.
 
