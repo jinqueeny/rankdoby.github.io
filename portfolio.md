@@ -12,6 +12,12 @@ View the source code on Github!
 
 # Sites: 
 
+## [CSULB's ACM Website (under construction!)](http://csulb.acm.org/) 
+
+![CSULB's original site]({{ site.baseurl }}/images/origacm.jpg)
+
+This is a picture of CSULB's original acm site built by previous webmaster of ACM, [David Nuon](https://github.com/csulbacm/ACM-Redux). With the original site being four years old, [Aleks Kivuls](http://alekskivuls.com/), the president of ACM, has called for a complete overhaul of the site. As of now, the site is going to be built with Angularjs, PHP, and mySQL. 
+
 ## [Politics in the Air](http://politicsintheair.com/)
 
 ![politicsintheair]({{ site.baseurl }}/images/politicsintheair.jpg)
